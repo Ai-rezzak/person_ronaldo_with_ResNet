@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Person%20Recognition%20System&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ResNet-Based%20Face%20Detection%20%26%20Classification&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Person%20Recognition%20System&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ResNet-Based%20Face%20Detection%20and%20Classification&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
